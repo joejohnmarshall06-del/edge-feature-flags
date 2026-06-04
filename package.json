@@ -1,0 +1,19 @@
+{
+  "name": "edge-feature-flags",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Deterministic feature flag engine for edge runtimes with percentage rollout, targeting rules, and audit snapshots.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
